@@ -50,7 +50,7 @@
 
 ---
 
-## 🛠 주요 언어 및 라이브러리
+## 🛠 분야별 사용 예정인 주요 언어 및 라이브러리
 
 - **협업 툴**
   - <img alt="Google Drive" src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=Google Drive&logoColor=white"/> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
