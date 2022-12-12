@@ -1,0 +1,2 @@
+# PROJECT_PREFERENCE
+대중의 취향
